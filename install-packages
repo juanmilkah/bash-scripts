@@ -1,18 +1,25 @@
 sudo pacman -Syu
 
-sudo pacman -S --needed nvim\
-kitty\
-fzf\
-neofetch\
-ripgrep\
-jq\
-thunar\
-gparted\
-dolphin\
-cmatrix\
-tmux\
-perf\
-feh\
-brightnessctl\
-pavucontrol\
-poppler-glib
+sudo pacman -S --needed nvim \
+kitty \
+fzf \
+neofetch \
+ripgrep \
+jq \
+thunar \
+gparted \
+dolphin \
+cmatrix \
+tmux \
+perf \
+feh \
+brightnessctl \
+pavucontrol \
+github-cli \
+firefox \
+unzip \
+wl-clipboard \
+hypridle \
+isoimagewriter \
+btop \
+libreoffice \
