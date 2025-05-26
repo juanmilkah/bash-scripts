@@ -1,7 +1,6 @@
 sudo pacman -Syu
 
-sudo pacman -S --needed nvim \
-kitty \
+sudo pacman -S --needed foot\
 fzf \
 neofetch \
 ripgrep \
@@ -20,6 +19,5 @@ firefox \
 unzip \
 wl-clipboard \
 hypridle \
-isoimagewriter \
 btop \
-libreoffice \
+libreoffice
