@@ -6,11 +6,8 @@ neofetch \
 ripgrep \
 jq \
 thunar \
-gparted \
-dolphin \
 cmatrix \
 tmux \
-perf \
 feh \
 brightnessctl \
 pavucontrol \
@@ -21,3 +18,9 @@ wl-clipboard \
 hypridle \
 htop \
 libreoffice
+thunar \
+gvfs \
+gvfs-mtp \
+gvfs-gphoto2 \
+udisks2 \
+swaylock 
